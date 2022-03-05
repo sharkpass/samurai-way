@@ -1,8 +1,8 @@
 .nav{
     grid-area: n;
-    background-color: sandybrown;
+    background-color: rgb(35, 19, 49);
   } 
 
   .item {
-      color: blue;
+      color: burlywood;
   }
